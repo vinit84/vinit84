@@ -2,7 +2,7 @@
 
 - 💪 I’m currently working on ..... social media marketing and seo management.
 - 🌱 I’m currently learning ..... Programming and data Science From IIT-M
-- 💞️ I’m looking to collaborate on ..... IIT M Grade calculator and IIT-M Notes site.
+- 💞️ I’m looking to collaborate on ..... Ecommerce site.
 - 📫 How to reach me ..... [Instagram](https://www.instagram.com/vinit_upadhyay_8454/)
 - 🙋‍♂️ Ask me about anything
 - 😄 Pronouns ..... He/Him
