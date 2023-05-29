@@ -1,4 +1,4 @@
-- 💪 I’m currently working on ..... social media marketing and seo management.
+- 💪 I’m currently working on ..... social media marketing & E-Book Website.
 - 🌱 I’m currently learning ..... Programming and data Science From IIT-M
 - 💞️ I’m looking to collaborate on ..... IIT M Grade calculator and IIT-M Notes site.
 - 💞️ I’m looking to collaborate on ..... Ecommerce site.
