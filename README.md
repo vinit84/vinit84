@@ -33,14 +33,14 @@ A Laravel web app similar to Yoto listed on the Shopify App Store.
 
 ## 📈 GitHub Stats
 
-![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinit84&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84e&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 
-- **Email:** [vinit@example.com](mailto:vinit@example.com)
+- **Email:** [vinit@example.com](mailto:vinitupadhyay8454@gmail.com)
 - **LinkedIn:** [Vinit Upadhyay](https://linkedin.com/in/vinit-upadhyay)
-- **Instagram:** [@its__badrinath_65_23](https://instagram.com/its__badrinath_65_23)
+- **Instagram:** [@its__badrinath_65_23](https://instagram.com/vinit_upadhyay_4u)
 
 ## 🌱 Current Focus
 
