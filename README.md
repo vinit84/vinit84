@@ -2,18 +2,24 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer with experience in creating dynamic and responsive web applications. My goal is to build efficient and scalable solutions that create a positive impact.
 
+---
+
 ## 🚀 Skills & Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</div>
+
+---
 
 ## 🌟 Projects
 
@@ -27,16 +33,41 @@ A real estate application to help owners find tenants and vice versa.
 - **Tech Stack:** React.js, Tailwind CSS, Firebase
 - **PRESIDIO Challenge Project**
 
+### [Shopify Laravel App](https://github.com/username/shopify-laravel-app)
+A Laravel web app similar to Yoto listed on the Shopify App Store.
+- **Tech Stack:** Laravel, Shopify API
+
+### [CaseGuru](https://github.com/username/caseguru)
+An innovative project to streamline case management for legal professionals.
+- **Tech Stack:** React.js, Node.js, Express, MongoDB
+- **Features:** Case tracking, document management, client communication
+
+---
+
+## 🏆 Achievements
+
+- **Winner:** PRESIDIO Challenge 2023 for Rentify Project
+- **Top 10:** Hackathon XYZ 2022 for QuickTube Project
+- **Featured:** in Dev.to for innovative use of Firebase in CaseGuru
+
+---
+
 ## 📈 GitHub Stats
 
-![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinit84&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinit84&show_icons=true&theme=radical" alt="Vinit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
 
 ## 📫 Contact Me
 
-- **Email:** [vinitupadhyay8454@gmail.com](mailto:vinitupadhyay8454@gmail.com)
+- **Email:** [vinit@example.com](mailto:vinitupadhyay8454@gmail.com)
 - **LinkedIn:** [Vinit Upadhyay](https://linkedin.com/in/vinit-upadhyay)
-- **Instagram:** [@vinit_upadhyay_4u](https://instagram.com/vinit_upadhyay_4u)
+- **Instagram:** [@its__badrinath_65_23](vinit)
+
+---
 
 ## 🌱 Current Focus
 
