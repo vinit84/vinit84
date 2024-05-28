@@ -33,23 +33,6 @@ A real estate application to help owners find tenants and vice versa.
 - **Tech Stack:** React.js, Tailwind CSS, Firebase
 - **PRESIDIO Challenge Project**
 
-### [Shopify Laravel App](https://github.com/username/shopify-laravel-app)
-A Laravel web app similar to Yoto listed on the Shopify App Store.
-- **Tech Stack:** Laravel, Shopify API
-
-### [CaseGuru](https://github.com/username/caseguru)
-An innovative project to streamline case management for legal professionals.
-- **Tech Stack:** React.js, Node.js, Express, MongoDB
-- **Features:** Case tracking, document management, client communication
-
----
-
-## 🏆 Achievements
-
-- **Winner:** PRESIDIO Challenge 2023 for Rentify Project
-- **Top 10:** Hackathon XYZ 2022 for QuickTube Project
-- **Featured:** in Dev.to for innovative use of Firebase in CaseGuru
-
 ---
 
 ## 📈 GitHub Stats
@@ -65,7 +48,7 @@ An innovative project to streamline case management for legal professionals.
 
 - **Email:** [vinit@example.com](mailto:vinitupadhyay8454@gmail.com)
 - **LinkedIn:** [Vinit Upadhyay](https://linkedin.com/in/vinit-upadhyay)
-- **Instagram:** [@its__badrinath_65_23](vinit)
+- **Instagram:** [@vinit_upadhyay_4u](https://Instagram.com/vinit_upadhyay_4u)
 
 ---
 
