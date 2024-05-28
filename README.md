@@ -27,20 +27,16 @@ A real estate application to help owners find tenants and vice versa.
 - **Tech Stack:** React.js, Tailwind CSS, Firebase
 - **PRESIDIO Challenge Project**
 
-### [Shopify Laravel App](https://github.com/username/shopify-laravel-app)
-A Laravel web app similar to Yoto listed on the Shopify App Store.
-- **Tech Stack:** Laravel, Shopify API
-
 ## 📈 GitHub Stats
 
 ![Vinit's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinit84&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84e&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 
-- **Email:** [vinit@example.com](mailto:vinitupadhyay8454@gmail.com)
+- **Email:** [vinitupadhyay8454@gmail.com](mailto:vinitupadhyay8454@gmail.com)
 - **LinkedIn:** [Vinit Upadhyay](https://linkedin.com/in/vinit-upadhyay)
-- **Instagram:** [@its__badrinath_65_23](https://instagram.com/vinit_upadhyay_4u)
+- **Instagram:** [@vinit_upadhyay_4u](https://instagram.com/vinit_upadhyay_4u)
 
 ## 🌱 Current Focus
 
