@@ -28,7 +28,7 @@ Streamlining the video review and approval process for YouTube content creators 
 - **Tech Stack:** React.js, Tailwind CSS, Node.js, Express, Firebase
 - **Features:** User authentication with OAuth, notification services with Twilio API, hosting on AWS
 
-### [Rentify](https://github.com/vinit84rentify)
+### [Rentify](https://github.com/vinit84/rentify)
 A real estate application to help owners find tenants and vice versa.
 - **Tech Stack:** React.js, Tailwind CSS, Firebase
 - **PRESIDIO Challenge Project**
