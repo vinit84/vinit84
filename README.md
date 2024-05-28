@@ -23,12 +23,12 @@ Welcome to my GitHub profile! I'm a passionate web developer with experience in 
 
 ## 🌟 Projects
 
-### [QuickTube](https://github.com/username/quicktube)
+### [QuickTube](https://github.com/vinit84/quicktube)
 Streamlining the video review and approval process for YouTube content creators and editors.
 - **Tech Stack:** React.js, Tailwind CSS, Node.js, Express, Firebase
 - **Features:** User authentication with OAuth, notification services with Twilio API, hosting on AWS
 
-### [Rentify](https://github.com/username/rentify)
+### [Rentify](https://github.com/vinit84rentify)
 A real estate application to help owners find tenants and vice versa.
 - **Tech Stack:** React.js, Tailwind CSS, Firebase
 - **PRESIDIO Challenge Project**
