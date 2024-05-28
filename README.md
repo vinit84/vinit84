@@ -46,7 +46,7 @@ A real estate application to help owners find tenants and vice versa.
 
 ## 📫 Contact Me
 
-- **Email:** [vinit@example.com](mailto:vinitupadhyay8454@gmail.com)
+- **Email:** [vinitupadhyay8454@gmail.com](mailto:vinitupadhyay8454@gmail.com)
 - **LinkedIn:** [Vinit Upadhyay](https://linkedin.com/in/vinit-upadhyay)
 - **Instagram:** [@vinit_upadhyay_4u](https://Instagram.com/vinit_upadhyay_4u)
 
