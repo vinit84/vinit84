@@ -89,13 +89,16 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="left">
-<div align="left">  
+<div align="center">
   <a href="https://github.com/vinit84">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinit84&show_icons=true&theme=react&border_radius=20&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84&layout=compact&langs_count=7&theme=react&border_radius=20"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vinit84&count_private=true&theme=react&border_radius=20"/>
+  <img src="https://komarev.com/ghpvc/?username=vinit84&label=Profile%20views&color=0e75b6&style=plastic" alt="vinit84" />
+    <a href="https://github.com/vinit84/vinit84"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/vinit84/vinit84/graphs/contributors"><img src="https://img.shields.io/github/contributors/vinit84/vinit84?color=red"></a>
+    <a href="https://github.com/vinit84/vinit84/stargazers"><img src="https://img.shields.io/github/stars/vinit84/vinit84.svg?color=yellow&logo=github"></a>
+    <a href="https://github.com/vinit84/vinit84/network/members"><img src="https://img.shields.io/github/forks/vinit84/vinit84.svg?color=orange&logo=github">
   </a>
-</div> 
+    <img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/vinit84/vinit84/profile-3d.yml?color=green">
+</div>
 </p>
 
 ## ⭐ Thanks for the visit!
