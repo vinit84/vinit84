@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 <br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinit84&theme=radical&show_icons=true&hide_border=true)
 <br />
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vvinit84&theme=radical&hide_border=true&layout=compact)](https://github.com/vinit84/github-readme-stats)
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84&theme=radical&hide_border=true&layout=compact)](https://github.com/vinit84/github-readme-stats)
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=vinit84&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
