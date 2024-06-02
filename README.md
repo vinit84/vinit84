@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://app.daily.dev/vinit4u">
 <img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Vinit Upadhyay's Dev Card" align="right"/>
 </a> -->
-<a href="https://app.daily.dev/vinit4u">
-  <img src="" width="400" alt="Vinit Upadhyay's Dev Card" align="right"/>
-</a>
+<a href="https://app.daily.dev/vinit4u"><img src="https://api.daily.dev/devcards/v2/y33XLVAMpl9dFxVqy1SIB.png?type=default&r=n07" width="356" alt="Vinit's Dev Card"/></a>
 
 ### Hi, I'm Vinit Upadhyay, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!
 - 💻 I’m currently working on QuickTube (YouTube Layer) and our personal brand, CaseGuru.
