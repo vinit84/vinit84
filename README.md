@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
 
-<!-- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> -->
+ <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> 
 
 ![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
 <br />
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Vinit Upadhyay's Dev Card" align="right"/>
 </a> -->
 <a href="https://app.daily.dev/vinit84">
-  <img src="https://api.daily.dev/devcards/v2/y33XLVAMpl9dFxVqy1SIB.png?" width="300" alt="Ayush Kanduri's Dev Card" align="right"/>
+  <img src="https://api.daily.dev/devcards/v2/y33XLVAMpl9dFxVqy1SIB.png?" width="400" height="300" alt="Ayush Kanduri's Dev Card" align="right"/>
 </a>
 
 ### Hi, I'm Vinit Upadhyay, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!
