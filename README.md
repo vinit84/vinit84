@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="left">
-<div align="center">  
+<div align="left">  
   <a href="https://github.com/vinit84">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinit84&show_icons=true&theme=react&border_radius=20&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84&layout=compact&langs_count=7&theme=react&border_radius=20"/>
