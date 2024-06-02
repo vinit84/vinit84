@@ -1,6 +1,9 @@
 # Welcome! Happy to see you here&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="37px" height="37px" />
 
-![banner (1)] <img height="300" width="300" src="banner.png"/>
+<img height="250" width="1000" src="banner.png"/>
+
+
+
 <br />
 <br />
 
