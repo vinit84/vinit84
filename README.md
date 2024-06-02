@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 # Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
 
- <img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="280px" height="200px" /> 
-
 ![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
 <br />
 <br />
