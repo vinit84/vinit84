@@ -1,11 +1,11 @@
-# Welcome! Happy to see you here&ensp;<img src="./wave.gif" width="37px" height="37px" />
+# Welcome! Happy to see you here&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="37px" height="37px" />
 
 ![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
 <br />
 <br />
 
 <a href="https://app.daily.dev/vinit84">
-  <img src="https://api.daily.dev/devcards/v2/y33XLVAMpl9dFxVqy1SIB.png?" width="370" height="430" alt="Ayush Kanduri's Dev Card" align="right"/>
+  <img src="https://api.daily.dev/devcards/v2/y33XLVAMpl9dFxVqy1SIB.png?" width="370" height="430" alt="Vinit Upadhyay's Dev Card" align="right"/>
 </a>
 
 ### Hi, I'm Vinit Upadhyay, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!
@@ -32,16 +32,16 @@
 ## 🔥 Tech Stack
 
 ### Front End Skills :
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/materialui/materialui-original.svg" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/styledcomponents/styledcomponents-plain.svg" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/reactrouter/reactrouter-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/styledcomponents/styledcomponents-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-original.svg" width="40" height="40"/>
 
 ### Back End Skills :
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
