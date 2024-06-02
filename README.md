@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Vinit Upadhyay's Dev Card" align="right"/>
 </a> -->
 <a href="https://app.daily.dev/vinit4u">
-  <img src="https://github.com/vinit84/vinit84/blob/master/devcard.svg" width="400" alt="Vinit Upadhyay's Dev Card" align="right"/>
+  <img src="https://github.com/vinit84/vinit84/blob/main/devcard.svg" width="400" alt="Vinit Upadhyay's Dev Card" align="right"/>
 </a>
 
 ### Hi, I'm Vinit Upadhyay, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!
