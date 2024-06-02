@@ -89,11 +89,11 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="left">
-<div align="center">  
-  <a href="https://github.com/vinit84">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinit84&show_icons=true&theme=react&border_radius=20&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84&layout=compact&langs_count=7&theme=react&border_radius=20"/>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vinit84&count_private=true&theme=react&border_radius=20" alt="vinit84" /></p></div> 
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="WEBP/right.webp"/>
+</p>
 </p>
 
 ## ⭐ Thanks for the visit!
