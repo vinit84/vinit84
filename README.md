@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 <p align="left">
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantGoel001&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinit84&theme=dark&hide_border=true"/>
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 </p>
