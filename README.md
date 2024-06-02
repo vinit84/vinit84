@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img src="https://api.daily.dev/devcards/XYZ.png?r=zpj" width="400" alt="Vinit Upadhyay's Dev Card" align="right"/>
 </a> -->
 <a href="https://app.daily.dev/vinit84">
-  <img src="https://api.daily.dev/devcards/v2/y33XLVAMpl9dFxVqy1SIB.png?" width="400" height="450" alt="Ayush Kanduri's Dev Card" align="right"/>
+  <img src="https://api.daily.dev/devcards/v2/y33XLVAMpl9dFxVqy1SIB.png?" width="400" height="430" alt="Ayush Kanduri's Dev Card" align="right"/>
 </a>
 
 ### Hi, I'm Vinit Upadhyay, a passionate 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 from 𝗜𝗻𝗱𝗶𝗮!
