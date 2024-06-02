@@ -89,15 +89,11 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="left">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vinit84&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinit84&theme=radical&show_icons=true&hide_border=true)
-<br />
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit84&theme=radical&hide_border=true&layout=compact)](https://github.com/vinit84/github-readme-stats)
-<br />
-<img src="https://activity-graph.herokuapp.com/graph?username=vinit84&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
+<div align="center">  
+  <a href="https://github.com/dmarsal90">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmarsal90&show_icons=true&theme=react&border_radius=20&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmarsal90&layout=compact&langs_count=7&theme=react&border_radius=20"/>
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dmarsal90&count_private=true&theme=react&border_radius=20" alt="dmarsal90" /></p></div> 
 </p>
 
 ## ⭐ Thanks for the visit!
