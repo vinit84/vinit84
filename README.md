@@ -1,6 +1,6 @@
 # Welcome! Happy to see you here&ensp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="37px" height="37px" />
 
-![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
+![banner (1)] <img height="300" width="300" src="banner.png"/>
 <br />
 <br />
 
