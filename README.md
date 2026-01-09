@@ -25,7 +25,7 @@
 [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/vinitupadhyay)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/vinitupadhyay/) 
 
-<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](http://vinitupadhyay.me)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](http://vinitupadhyay.me/resume) </span>
+<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](http://vinitupadhyay.me)&emsp; </span>
 
 <br />
 
