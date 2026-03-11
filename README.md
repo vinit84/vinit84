@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 <a href="https://vinit.codes">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=45&lines=%3E+Hey%2C+I'm+Vinit+Upadhyay+%F0%9F%91%8B;Frontend+Engineer+%7C+Building+for+the+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=Hey%2C+I'm+Vinit+Upadhyay+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
