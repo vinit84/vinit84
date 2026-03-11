@@ -152,7 +152,7 @@ const vinit = {
       <h3 align="center">MindMarket Landing</h3>
       <p align="center">
         <a href="https://github.com/vinit84" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-        <a href="https://github.com/vinit84" target="_blank"><img src="https://img.shields.io/badge/Coming_Soon-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+        <a href="https://mindmarket.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
       </p>
       <p align="center">A polished, pixel-perfect landing page technical study showcasing modern animation techniques and responsive design patterns.</p>
       <p align="center">
