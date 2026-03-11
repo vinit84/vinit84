@@ -123,6 +123,7 @@ const vinit = {
       <h3 align="center">QuickTube</h3>
       <p align="center">
         <a href="https://github.com/vinit84" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="https://github.com/vinit84" target="_blank"><img src="https://img.shields.io/badge/Coming_Soon-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
       </p>
       <p align="center">Cloud-based video review platform for YouTube creators — eliminating the download-review-reupload cycle with real-time timestamp comments, team collaboration & one-click publishing.</p>
       <p align="center">
@@ -136,6 +137,7 @@ const vinit = {
       <h3 align="center">Femworld</h3>
       <p align="center">
         <a href="https://github.com/vinit84/Femworld" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="https://femworld.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
       </p>
       <p align="center">Luxury fashion e-commerce platform helping women discover high-end seasonal collections through an editorial shopping experience with real-time inventory.</p>
       <p align="center">
@@ -150,6 +152,7 @@ const vinit = {
       <h3 align="center">MindMarket Landing</h3>
       <p align="center">
         <a href="https://github.com/vinit84" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="https://github.com/vinit84" target="_blank"><img src="https://img.shields.io/badge/Coming_Soon-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
       </p>
       <p align="center">A polished, pixel-perfect landing page technical study showcasing modern animation techniques and responsive design patterns.</p>
       <p align="center">
@@ -162,6 +165,7 @@ const vinit = {
       <h3 align="center">Skiper Landing</h3>
       <p align="center">
         <a href="https://github.com/vinit84/skiper-landing" target="_blank"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="https://skiper-landing4u.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
       </p>
       <p align="center">A clean, modern landing page built with TypeScript showcasing component architecture and design system integration.</p>
       <p align="center">
@@ -202,7 +206,7 @@ const vinit = {
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinit84&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=vinit84&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
 </div>
 
 <br/>
