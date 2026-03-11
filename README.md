@@ -33,7 +33,12 @@ const vinit = {
     studying: "BS in Data Science & Application @ IIT Madras",
   },
   previously: "SDE (Frontend Engineer) @ SameSpace",
-  passions: ["Pixel-perfect UIs", "Web Performance", "Accessibility", "Open Source"],
+  passions: [
+    "Pixel-perfect UIs",
+    "Web Performance",
+    "Accessibility",
+    "Open Source",
+  ],
   funFact: "I optimized a frontend so hard, the API thanked me 🚀",
 };
 ```
@@ -170,11 +175,11 @@ const vinit = {
 
 ### 💼 Experience
 
-| Role | Company | Period | Highlights |
-|:-----|:--------|:-------|:-----------|
-| **AI Trainer & Reviewer** | [Outlier](https://outlier.ai) | Apr 2025 — Present | Training LLMs through expert frontend code review; improved model reasoning accuracy by **20%** |
-| **SDE (Frontend Engineer)** | [SameSpace](https://samespace.com) | Jul 2024 — May 2025 | Built Wave analytics UI; **20%** faster page loads, **35%** less API overhead, **15+** WCAG-compliant components |
-| **BS Data Science** | [IIT Madras](https://www.iitm.ac.in) | 2025 — Present | Data Science & Application — Statistics, ML, Python |
+| Role                        | Company                              | Period              | Highlights                                                                                                       |
+| :-------------------------- | :----------------------------------- | :------------------ | :--------------------------------------------------------------------------------------------------------------- |
+| **AI Trainer & Reviewer**   | [Outlier](https://outlier.ai)        | Apr 2025 — Present  | Training LLMs through expert frontend code review; improved model reasoning accuracy by **20%**                  |
+| **SDE (Frontend Engineer)** | [SameSpace](https://samespace.com)   | Jul 2024 — May 2025 | Built Wave analytics UI; **20%** faster page loads, **35%** less API overhead, **15+** WCAG-compliant components |
+| **BS Data Science**         | [IIT Madras](https://www.iitm.ac.in) | 2025 — Present      | Data Science & Application — Statistics, ML, Python                                                              |
 
 ---
 
